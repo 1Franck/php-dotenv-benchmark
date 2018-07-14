@@ -1,8 +1,9 @@
 # Benchmark of PHP .env parsers 
 
- - Dotenv\Dotenv (https://github.com/vlucas/phpdotenv)
- - Symfony\Dotenv (https://github.com/symfony/dotenv)
- - josegonzalez\Dotenv (https://github.com/josegonzalez/php-dotenv)
+ - vlucas/phpdotenv  (https://github.com/vlucas/phpdotenv)
+ - symfony/dotenv (https://github.com/symfony/dotenv)
+ - josegonzalez/dotenv (https://github.com/josegonzalez/php-dotenv)
+ - zrcing/phpenv (https://github.com/zrcing/phpenv)
  
  
 ### Run the benchmark
